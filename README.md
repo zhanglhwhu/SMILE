@@ -17,6 +17,10 @@ conda create -n env_SMILE python=3.11
 #activate your environment
 conda activate env_SMILE
 ```
+# install from test.pypi
+pip install -i https://test.pypi.org/simple/ stSMILE
+
+# install from git
 First clone the repository. 
 
 ```

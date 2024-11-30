@@ -1,14 +1,12 @@
 # SMILE
 
-![image-20221221161146872](SMILE_Overview.png)
-
 ## Overview
 
 SMILE is designed for alignment and integration of spatially resolved transcriptomics data.
 
 
 ## Installation
-The SMILE package is developed based on the Python libraries [Scanpy](https://scanpy.readthedocs.io/en/stable/), [PyTorch](https://pytorch.org/) and [PyG](https://github.com/pyg-team/pytorch_geometric) (*PyTorch Geometric*) framework, and can be run on CPU or GPU.
+The SMILE package is developed based on the Python libraries [Scanpy](https://scanpy.readthedocs.io/en/stable/), [PyTorch](https://pytorch.org/) and [PyG](https://github.com/pyg-team/pytorch_geometric) (*PyTorch Geometric*) framework.
 
 
 
@@ -41,8 +39,7 @@ The torch-geometric library is also required, please see the installation steps 
 Install SMILE.
 
 ```
-python setup.py build
-python setup.py install
+pip install git+git://github.com/zhanglhwhu/SMILE.git
 ```
 
 

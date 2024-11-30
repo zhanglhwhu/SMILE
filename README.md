@@ -27,7 +27,7 @@ cd SMILE
 Install all the required packages.
 
 ```
-pip install -r requiements.txt
+pip install -r requirements.txt
 ```
 The use of the mclust algorithm requires the rpy2 package (Python) and the mclust package (R). See https://pypi.org/project/rpy2/ and https://cran.r-project.org/web/packages/mclust/index.html for detail.
 

@@ -8,15 +8,6 @@ SMILE is designed for alignment and integration of spatially resolved transcript
 ## Installation
 The SMILE package is developed based on the Python libraries [Scanpy](https://scanpy.readthedocs.io/en/stable/), [PyTorch](https://pytorch.org/) and [PyG](https://github.com/pyg-team/pytorch_geometric) (*PyTorch Geometric*) framework.
 
-
-
-First clone the repository. 
-
-```
-git clone https://github.com/zhanglhwhu/SMILE.git
-cd SMILE-main
-```
-
 It's recommended to create a separate conda environment for running SMILE:
 
 ```

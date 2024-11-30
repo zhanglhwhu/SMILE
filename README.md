@@ -17,6 +17,12 @@ conda create -n env_SMILE python=3.11
 #activate your environment
 conda activate env_SMILE
 ```
+First clone the repository. 
+
+```
+git clone https://github.com/zhanglhwhu/SMILE.git
+cd SMILE-main
+```
 
 Install all the required packages.
 

@@ -21,7 +21,7 @@ First clone the repository.
 
 ```
 git clone https://github.com/zhanglhwhu/SMILE.git
-cd SMILE-main
+cd SMILE
 ```
 
 Install all the required packages.
